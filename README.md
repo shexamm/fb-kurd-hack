@@ -1,9 +1,5 @@
 #cracked by blnd masud snapchat:k4ro_2
 #!/bin/bash
-#version 1.0
-#RECODE MULU LU BOZZ
-#MAKANYA USAHA
-#CODING SUSAH
 
 b="\033[1m"
 u="\033[4m"
